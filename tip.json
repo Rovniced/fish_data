@@ -1,7 +1,7 @@
 {
   "alway": false,
-  "title": "提示",
-  "intro":"云端数据存放于Github，本软件禁止传播。",
+  "title": "关于",
+  "intro":"本软件仅供个人使用，禁止传播！",
   "exit": false,
   "show": true,
   "f": true,
