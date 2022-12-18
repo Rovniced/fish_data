@@ -1,6 +1,6 @@
 # fish_data
 DATA BACKUP
-ADAPT FISH TO ALl VERSION
+ADAPT FISH TO ALL VERSION
 
 DOWNLOAD:
 https://asdqp.lanzout.com/b08trrqve
