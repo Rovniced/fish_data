@@ -7,7 +7,7 @@
 	"maxAdapt": "9.9.99",
 	"dialogTitle": "关于",
 	"dialogIntro": "本软件仅在原基础上修改配置文件，不保证百分百能用，请勿传播！",
-	"dialogShow": false,
+	"dialogShow": true,
 	"dialogExit": false,
 	"dialogTime": 0,
 	"updateInfo": {
